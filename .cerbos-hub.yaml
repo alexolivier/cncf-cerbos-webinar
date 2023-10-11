@@ -1,6 +1,6 @@
 apiVersion: api.cerbos.cloud/v1
 labels:
-  latest:
-    branch: main
+  # latest:
+  #   branch: main
   newConfig:
     commitHash: e41e386e7e9c88494a098442f61fd4be92769b57
